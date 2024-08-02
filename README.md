@@ -32,4 +32,4 @@
 **Key Findings**
 
 **Dashboard Overview**
-![Supermarket_Dashboard](Supermaket_Dashboard.png)
+![Sales_Dashboard](Sales_Dashboard.png)
