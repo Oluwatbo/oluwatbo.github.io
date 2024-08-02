@@ -21,3 +21,15 @@
 **Project Description:** 
 
 **Technology Used:** SQL Server
+
+# Project 3
+**Title:** [Supermarket Dashboard](https://github.com/Oluwatbo/oluwatbo.github.io/blob/main/Supermarket%20Sales%20Dashboard.pbix)
+
+**Tools Used:** Powerbi, Power Query Editor, Slicers, Conditinal Formating, DAX, Data Cleansing, Data Modelling
+
+**Project Description**
+
+**Key Findings**
+
+**Dashboard Overview**
+![Supermarket_Dashboard](Supermaket_Dashboard.png)
