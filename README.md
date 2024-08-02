@@ -10,3 +10,14 @@
 
 **Dashboard Overview:**
 ![Sleep_Dashboard](Sleep_Dashboard.png)
+
+# Project 2
+**Title:** [Customer Sales Data]
+
+**SQL Code:** [SQL Query](https://github.com/Oluwatbo/oluwatbo.github.io/blob/main/Sales_Data.SQL)
+
+**SQL Skills Used:**
+
+**Project Description:** 
+
+**Technology Used:** SQL Server
