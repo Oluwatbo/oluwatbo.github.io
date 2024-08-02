@@ -33,3 +33,14 @@
 
 **Dashboard Overview**
 ![Supermarket_Dashboard](Supermarket_Dashboard.png)
+
+# Project 4
+**Title:** [Car Dealer Sales]
+
+**SQL Code:** [SQL Query](https://github.com/Oluwatbo/oluwatbo.github.io/blob/main/Car_Dealer.SQL)
+
+**SQL Skills Used:**
+
+**Project Description:** 
+
+**Technology Used:** SQL Server
