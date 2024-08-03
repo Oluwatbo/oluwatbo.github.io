@@ -82,13 +82,20 @@ Insights: Identified the "Food and beverages" category having the highest averag
 **SQL Skills Used:** For Data Retrieval: 
                       SELECT queries to fetch specific data from tables.
                       FROM to specify the table.
-                      JOIN operations to combine data from multiple tables.
-                      ON to specify two coumns from multiple tables that are the same.
                       WHERE clauses for filtering data based on specific conditions.
-                      CROSS JOIN to combine each row of one table with each row of another table, and return the Cartesian product of the sets of rows from the tables that are joined.
-                     For Data Filtering and Sorting:
-                      ORDER BY for sorting data.
+                      GROUP BY for aggregating data and calculating the COUNT metrics.
+                      HAVING for filtering groups based on aggregate calculations.
+                     For Data Aggregation and Analysis:
+                      Used aggregate functions like COUNT() to summarise data
 
-**Project Description:** 
+**Project Description:** To develop a comprehensive database management system for a second-hand car dealership. The aim is to manage inventory and sales transactions efficiently.
+
+Inventory Management: Track and manage available vehicles, including details such as the fuel type(petrol, diesel, and CNG), year, selling price, and condition.
+
+Sales Transactions: Record sales transactions, including customer details, vehicle sold, price, and sales date.
+
+Reporting and Analytics: Generate reports on sales performance and inventory status.
+
+Analyse sales trends.
 
 **Technology Used:** SQL Server
