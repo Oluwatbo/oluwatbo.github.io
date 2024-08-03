@@ -4,7 +4,7 @@
 
 **Tools Used:** Powerbi, Power Query Editor, Slicers, Conditinal Formating, DAX, Data Cleansing, Data Modelling
 
-**Project Description:** The objective was to understand the relationship between sleep habits, health conditions, and lifestyle choices. This dataset provides insights into various aspects such as sleep duration, health conditions, physical activity levels, and demographic factors. By analysing this data, I aim to uncover patterns and correlations that could inform health recommendations and lifestyle improvements. The dataset includes information on sleep patterns, health metrics, lifestyle factors, and demographics.The key variables are sleep duration, sleep quality, physical activity, health conditions (e.g., BMI Category, Blood Pressure), lifestyle choices (e.g., physical activity level, stress level), and demographic factors (e.g., age, gender).
+**Project Description:** The objective is to understand the relationship between sleep habits, health conditions, and lifestyle choices. This dataset provides insights into various aspects such as sleep duration, health conditions, physical activity levels, and demographic factors. By analysing this data, I aim to uncover patterns and correlations that could inform health recommendations and lifestyle improvements. The dataset includes information on sleep patterns, health metrics, lifestyle factors, and demographics.The key variables are sleep duration, sleep quality, physical activity, health conditions (e.g., BMI Category, Blood Pressure), lifestyle choices (e.g., physical activity level, stress level), and demographic factors (e.g., age, gender).
 
 **Key Findings:** Column chart showing short sleep duration is associated with higher prevalence of Sleep Apnea and Insomnia.
                   Line chart showing participants who engage in regular physical activity report better sleep quality.
@@ -30,8 +30,7 @@
                       CROSS JOIN to combine each row of one table with each row of another table, and return the Cartesian product of the sets of rows from the tables that are joined.
                      For Data Filtering and Sorting:
                       ORDER BY for sorting data.
-
-
+                      
 **Project Description:** The project aims to analyse the relationships and performance metrics across sales, customers, and orders. By utilising SQL to interact with the database, the project focuses on extracting valuable insights such as sales performance, customer demographics, product popularity, and operational efficiency.
 
 **Technology Used:** SQL Server
@@ -80,7 +79,15 @@ Insights: Identified the "Food and beverages" category having the highest averag
 
 **SQL Code:** [SQL Query](https://github.com/Oluwatbo/oluwatbo.github.io/blob/main/Car_Dealer.SQL)
 
-**SQL Skills Used:**
+**SQL Skills Used:** For Data Retrieval: 
+                      SELECT queries to fetch specific data from tables.
+                      FROM to specify the table.
+                      JOIN operations to combine data from multiple tables.
+                      ON to specify two coumns from multiple tables that are the same.
+                      WHERE clauses for filtering data based on specific conditions.
+                      CROSS JOIN to combine each row of one table with each row of another table, and return the Cartesian product of the sets of rows from the tables that are joined.
+                     For Data Filtering and Sorting:
+                      ORDER BY for sorting data.
 
 **Project Description:** 
 
