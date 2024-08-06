@@ -135,7 +135,7 @@ Analyse sales trends.
                   The variability in billing amounts across different medical conditions, with some conditions, such as diabetes, generally incurring higher costs.
                   Diabetes has the most "urgent" admission type, hypertension has the most "elective" admission type, while the obesity has the most "emergency" admission type.
                   Arthritis is more common in females while asthma and cancer are more common in males.
-                  More aspirin is used for Arthritis, more paracetamol for asthma, more lipitor for cancer and diabetes, more ibuprofen for hypertension, and more penicillin for obesity.      
+                  More aspirin was used to treat Arthritis, more paracetamol for asthma, more lipitor for cancer and diabetes, more ibuprofen for hypertension, and more penicillin for obesity.      
 
 **Dashboard Overview:**
 ![Patient_Healthcare_Dashboard](Patient_Healthcare_Dashboard.png)
