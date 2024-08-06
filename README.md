@@ -101,7 +101,7 @@ Analyse sales trends.
 **Technology Used:** SQL Server
 
 # Project 5
-**Title:** [Stroke Prediction Dashboard](https://github.com/Oluwatbo/oluwatbo.github.io/blob/main/Sleep_Health_Lifestyle%20Dataset.pbix)
+**Title:** [Stroke Prediction Dashboard](https://github.com/Oluwatbo/oluwatbo.github.io/blob/main/Stroke%20Prediction%20Dataset.xlsx)
 
 **Tools Used:** Microsoft Excel, Data Import and Cleansing, Pivot Tables, Data Visualisation through Bar, Line, and Pie charts, Slicers, Conditional Formatting
 
@@ -117,3 +117,25 @@ Analyse sales trends.
 
 **Dashboard Overview:**
 ![Stroke_Prediction_Dashboard](Stroke_Prediction_Dashboard.png)
+
+# Project 6
+**Title:** [Patient Healthcare Dashboard](https://github.com/Oluwatbo/oluwatbo.github.io/blob/main/Patient%20Healthcare%20Dataset.xlsx)
+
+**Tools Used:** Microsoft Excel, Data Import and Cleansing, Pivot Tables, Data Visualisation through Bar, Line, and Pie charts, Slicers, Conditional Formatting, SUM()
+
+**Project Description:** The project involves creating a comprehensive dashboard using Excel to analyse and visualise patient healthcare data. The data encompasses various patient demographics, medical conditions, billing information, insurance providers, hospital stays, and other relevant metrics. The primary aim is to provide insights into patient healthcare trends and identify key patterns that can inform decision-making in medical and administrative processes.
+
+**Key Findings:** Higher prevalence of certain conditions, such as hypertension and diabetes, in older age groups.
+                  Aetna insurance provider has the lowest billing amount.
+                  Evident that certain conditions, such as Arthritis, Asthma and Diabetes diseases, are associated with longer hospital stays compared to others.
+                  The chart suggests that billing amounts tend to increase with age, likely due to more complex health issues and more intensive treatments. However, there was a sharp decrease in billing amounts for "83 - 92" age group.
+                  Hospitals that have the highest number of patients, providing insights into patient distribution across healthcare facilities.
+                  A breakdown of medical conditions by blood type reveals no significant correlation, suggesting that blood type does not influence the prevalence of specific conditions.
+                  The relationship between medical conditions and test results, with certain conditions like Arthritis and diabetes showing more abnormal test results.
+                  The variability in billing amounts across different medical conditions, with some conditions, such as diabetes, generally incurring higher costs.
+                  Diabetes has the most "urgent" admission type, hypertension has the most "elective" admission type, while the obesity has the most "emergency" admission type.
+                  Arthritis is more common in females while asthma and cancer are more common in males.
+                  More aspirin is used for Arthritis, more paracetamol for asthma, more lipitor for cancer and diabetes, more ibuprofen for hypertension, and more penicillin for obesity.      
+
+**Dashboard Overview:**
+![Patient_Healthcare_Dashboard](Patient_Healthcare_Dashboard.png)
