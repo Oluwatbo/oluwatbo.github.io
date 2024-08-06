@@ -99,3 +99,21 @@ Reporting and Analytics: Generate reports on sales performance and inventory sta
 Analyse sales trends.
 
 **Technology Used:** SQL Server
+
+# Project 5
+**Title:** [Stroke Prediction Dashboard](https://github.com/Oluwatbo/oluwatbo.github.io/blob/main/Sleep_Health_Lifestyle%20Dataset.pbix)
+
+**Tools Used:** Microsoft Excel, Data Import and Cleansing, Pivot Tables, Data Visualisation through Bar, Line, and Pie charts, Slicers, Conditional Formatting
+
+**Project Description:** This project is to analyse and visualise various factors that may influence the likelihood of stroke occurrence. The dataset includes demographic information, medical history, and lifestyle factors of individuals. The dashboard aims to identify patterns and correlations between these factors and stroke diagnosis, providing insights that could inform healthcare decisions and preventive measures.
+
+**Key Findings:** Highest stroke incidence was observed in age group "48 - 52" while the lowest stroke diagnoses was in age group "88 - 92".
+                  Males showed a higher incidence of stroke compared to females.
+                  Individuals in rural areas showed a higher rate of stroke diagnoses compared to those in urban areas.
+                  Paleo dietary habit and singles were more prevalent among stroke patients.
+                  A significant portion of stroke patients had a history of hypertension and a family history of stroke.
+                  Current smokers and rarely drinkers exhibited a higher likelihood of stroke.
+                  Stroke rates varied across different work types, with self-employed and private sector employees showing distinct patterns in health metrics.
+
+**Dashboard Overview:**
+![Stroke_Prediction_Dashboard](Stroke_Prediction_Dashboard.png)
